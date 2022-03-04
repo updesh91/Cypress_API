@@ -34,6 +34,7 @@ add the following lines to the package.json file, script section::
   To start the Cypress project run the command:
   
     npm run cypressopen
+    npm run cypressrun
     
 
 
